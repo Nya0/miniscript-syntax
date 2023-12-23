@@ -21,6 +21,7 @@
 				],
 				"extensions": [
 					"ms"
+					"txt"
 				],
 				"configuration": "./language-configuration.json"
 			}
